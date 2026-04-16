@@ -173,6 +173,7 @@ alog.umeng.com
 alog.umengcloud.com
 alogs.umeng.com
 alogus.umeng.com
+alt-ad.mail.ru
 amazon-adsystem.com
 amc.yandex.ru
 an.yandex.ru
