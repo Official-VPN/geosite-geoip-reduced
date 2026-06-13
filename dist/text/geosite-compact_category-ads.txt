@@ -270,7 +270,6 @@ data.mistat.xiaomi.com
 dc.letv.com
 decide.mixpanel.com
 dig.bdurl.net
-dlswbr.baidu.com
 dn-growing.qbox.me
 doubleclick-cn.net
 doubleclick.cn
@@ -399,6 +398,7 @@ juicyads.com
 jzt.jd.com
 kaprila.com
 kepler-37b.com
+kurogames-ads.com
 kuyun.com
 ladsp.com
 leanplum.com
@@ -437,7 +437,6 @@ metrics.viqeo.tv
 metrika.yandex.com
 metrika.yandex.net
 metrika.yandex.ru
-miao.baidu.com
 miaowu.baidu.com
 microad.co.jp
 microad.jp
