@@ -68,7 +68,14 @@ bank131.com
 baranky.com
 bargipsy.com
 beeline.tv
+beget.app
+beget.cloud
 beget.com
+beget.de
+beget.hosting
+beget.pro
+beget.tech
+begetcdn.cloud
 best2pay.net
 bizmrg.com
 bk6bba-resources.com
@@ -611,6 +618,7 @@ sokolov.io
 sourcecraft.dev
 spasibo.digital
 spasibo.market
+sprut.io
 sputnikglobe.com
 sputnikimages.com
 sputnikmediabank.com
@@ -651,6 +659,8 @@ tildacdn.com
 tildacdn.net
 timeweb.cloud
 timeweb.com
+timeweb.tech
+timewebcloud.kz
 tinkoff-group.com
 tinkoff.ai
 tinkoffmobile.com
